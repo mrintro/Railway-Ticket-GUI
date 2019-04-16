@@ -1,6 +1,6 @@
 # Railway-Ticket-GUI
 
-This is a user based GUI which id just a demo model for Railway online booking system.
+This is an interactive GUI which id just a demo model for Railway online booking system.
 
 libraries required are:
 1. tkinter
