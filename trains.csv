@@ -1,0 +1,25 @@
+source,destination,train number,time
+Kurukshetra,Chandigarh,1,06:00
+Kurukshetra,Delhi,2,06:00
+Kurukshetra,Chandigarh,3,12:00
+Kurukshetra,Delhi,4,12:00
+Kurukshetra,Chandigarh,5,18:00
+Kurukshetra,Delhi,6,18:00
+Haridwar,Delhi,7,06:00
+Haridwar,Aligarh,8,06:00
+Haridwar,Delhi,9,12:00
+Haridwar,Aligarh,10,12:00
+Haridwar,Delhi,11,18:00
+Haridwar,Aligarh,12,18:00
+Shahranpur,kurukshetra,13,06:00
+Shahranpur,Roorkee,14,06:00
+Shahranpur,kurukshetra,15,12:00
+Shahranpur,Roorkee,16,12:00
+Shahranpur,kurukshetra,17,18:00
+Shahranpur,Roorkee,18,18:00
+Dehradun,Ambala,19,06:00
+Dehradun,Lucknow,20,06:00
+Dehradun,Ambala,21,12:00
+Dehradun,Lucknow,22,12:00
+Dehradun,Ambala,23,18:00
+Dehradun,Lucknow,24,18:00
